@@ -1,6 +1,13 @@
 # WebPd_Experiments
 
-This is a repo to share code about webpd and processing js experiments
+This is a repo to share code about webpd and processing js experiments.
+
+Sadly the documentation has been lost somewhere on a server. Hope to be able to get back to it someday.
+
+check out the amazing webpd : https://github.com/sebpiq/WebPd
+and the amazing processing js : http://processingjs.org/
+
+
 
 ## Snow Night 
 
@@ -29,9 +36,4 @@ Click and drag then fiddle with the controls.,True,
 Demo : http://b2renger.github.io/WebPd_Experiments/fm_culture/index.html
 
 
-It uses the same tech as thisrepo : https://github.com/b2renger/WebPd_getting_started
 
-Sadly the documentation has been lost somewhere on a Orange server. Hope to be able to get back to it someday.
-
-check out the amazing webpd : https://github.com/sebpiq/WebPd
-and the amazing processing js : http://processingjs.org/
